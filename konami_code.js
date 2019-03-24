@@ -37,4 +37,4 @@ function init() {
 
 }
 
-init()
+puts init()
