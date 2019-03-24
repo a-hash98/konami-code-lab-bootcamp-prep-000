@@ -21,8 +21,8 @@ function checkSequence(codes,i){
     } else {
       init()
     }
-    
-    
+
+
   })
 }
 
@@ -34,7 +34,5 @@ function init() {
       checkSequence(codes,i)
     }
   })
-  
+
 }
-
-
